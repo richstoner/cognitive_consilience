@@ -28,7 +28,7 @@ Attempt to resurrect a dead fusion-tables dependent web-app
 - A tiled image viewer is used to display each rasterized view of the cortical layers
 - Web viewer functionality
 	- A javascript UI (ancient jquery) was used to toggle different layers
-	- A javascript UI to display a custom google maps layer (tiled pyramid image tiles, served statically)
+	- A javascript UI to display a custom google maps layer (tiled pyramid image tiles, served statically, converted from zoomify to GMaps format)
 		- We project the tiles into a geographic coordinate system
 	- A javascript query to the Google maps / fusion table layer to display features on the map
 		- We project the locations of the references into a geographic coordinate system
