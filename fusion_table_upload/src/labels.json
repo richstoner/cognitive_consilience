@@ -1,0 +1,416 @@
+{
+    "0": {
+        "title": "Intercortical Connections", 
+        "neurolex": "", 
+        "shortdetail": "Viewpoint: Neuroanatomically, cell assembly to cell assembly associations form intercortically in a hierarchical layer dependent feedforward/feedback network.", 
+        "detail": "Intercortical circuits involve the large white matter corticocortical fiber tracts of the brain (Schmahmann & Pandya, 2006). Fiber tracts connect multiple distant cortical areas and subcortical nuclei with a great deal of specificity. The topology of corticocortical projections are the primary focus of the Human Connectome Project and CoCoMac(Marcus et al., 2011; Kotter, 2004). Contralateral corticocortical projections tend to connect the same spatial regions on opposite sides of the brain, while ipsilateral connections often connect distant areas on the same side(Barbas, Hilgetag, et al., 2005). Different populations of pyramidal neurons tend to project contralaterally (lower layer 3b) as opposed to ipsilaterally (upper layer 3a and layers 5/6)(Soloway et al., 2002).", 
+        "cy": 110.716, 
+        "cx": 526.595, 
+        "id": "intercortical"
+    }, 
+    "1": {
+        "title": "Cortical Layer 1", 
+        "neurolex": "<a target='_blank' href=''>Neurolex entry</a>", 
+        "shortdetail": "Viewpoint: Neuroanatomically, cortical layer 1 appears to be a plexus of dendrites and axons where a single axon projection can easily influence or activate multiple pyramidal neurons in different cortical layers to control a functional module.", 
+        "detail": "Layer 1 of the cerebral cortex, referred to as the molecular layer, lies closest to the pial surface of the brain. The only neurons in L1 are inhibitory Cajal-Retzius cells containing long horizontal axons(Cajal, 2002; Gabbott & Bacon, 1996; Conde et al., 1994). L1 is composed of a dense plexus of dendritic tufts of pyramidal neurons combined with axons from cortical and subcortical origin. Many non-glutamate neurotransmitters systems (serotoninergic, adrenergic, cholinergic) appear to target the lower portions of layer 1(Eickhoff et al., 2007). The dense plexus of dendrites in L1 provides the opportunity for a given axon terminating in L1 to effect pyramidal neurons throughout all layers. The cortical pyramidal neurons consistently demonstrating prominent L1 apical dendritic tufts are C2, C3a, C3b, C5s, and C5p.", 
+        "cy": 441.268, 
+        "cx": 54.249, 
+        "id": "layer_1"
+    }, 
+    "2": {
+        "title": "Cortical pyramidal layer 4 cortically projecting", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, C4 appears to function as a corticocortical feedforward input system.", 
+        "detail": "Layer 4 is referred to as the inner granular layer, not for any particular cell type, but due to the visual appearance of small neurons stained in Nissl preparations. Layer 4, of all cortices, appears to be an input for feedforward type projections. In isocortex, layer 4 is the primary target of ipsilateral corticocortical feedforward cortical projections(Figure 3)(Barbas, Hilgetag, et al., 2005; DeFelipe et al., 1986; Medalla & Barbas, 2006; Rockland, 1992; Felleman & Van Essen, 1991). Since primary sensory koniocortex is the anatomically closest cortex to raw sensory input, other cortical areas can not provide feedforward input. Instead, in koniocortices, the specific thalamus provides the feedforward projection into layer 4. In primary motor cortex layer 4 is essentially non-existent, highlighting the diminished need for feedforward input to cortical areas involved in output behavior. The cortical pyramidal neurons in layer 4, C4, typically have a descending and an ascending axon that arborize locally (<1mm)(Kritzer & Goldman-Rakic, 1995). The ascending axon reaches all supragranular layers upwards of layer 2. Descending axons do not prominently exit the cortex as with most other pyramidal cells. Only in primary sensory areas, and especially in primary visual cortex, does layer 4 contain spiny stellate cells(Meyer et al., 1989). In all other parts of cortex, spiny stellate cells are nonexistent or very rare, and instead small pyramidal cells along with interneurons compose the majority of cells in L4. Quoting Lund ’There are no spiny stellate neurons in V2 in contrast to area V1 where they are the main neuron types of lamina 4’(Lund et al., 1981).", 
+        "cy": 1237.16, 
+        "cx": 1180.65, 
+        "id": "c4_1_"
+    }, 
+    "3": {
+        "title": "Martinotti Cells in Layer 6", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, interneurons appear to synchronize information processing and facilitate excitatory competition through localized vertical and horizontal inhibitory projections enabling cortical information processing.", 
+        "detail": "Martinotti cells express calbindin and are unique in that they send a vertically projecting axon that arborizes horizontally in layer 1(Conde et al., 1994; Zaitsev et al., 2009).", 
+        "cy": 1964.907, 
+        "cx": 1229.647, 
+        "id": "martinotti_layer_6"
+    }, 
+    "4": {
+        "title": "Corpus Callosum", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "description for window", 
+        "detail": "description for left view", 
+        "cy": 2303.371, 
+        "cx": 482.657, 
+        "id": "corpus_callosum"
+    }, 
+    "5": {
+        "title": "Parahippocampal gyrus/periallocortex Layers 2/3", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the periallocortex appears to facilitate medium-term storage of associations, temporally acting between short-term and long-term memory, capable of mapping source C3b representations to target C3b representations in the isocortex.", 
+        "detail": "PH23 is used to describe the upper layers in the periallocortex that receive afferent projections from the isocortex (typically C3b)(Witter et al., 1989). Input to PH23 is topographically organized and dominated by multimodal association isocortex(Burwell, 2000). PH23 sends efferent projections to the hippocampus.", 
+        "cy": 2699.412, 
+        "cx": 478.001, 
+        "id": "ph23"
+    }, 
+    "6": {
+        "title": "Parahippocampal gyrus/periallocortex Layers 5/6", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the periallocortex appears to facilitate medium-term storage of associations, temporally acting between short-term and long-term memory, capable of mapping source C3b representations to target C3b representations in the isocortex.", 
+        "detail": "PH56 is used to describe the lower layers in the periallocortex that send efferent projections to the isocortex with origin/target laminar distributions similar to intercortical association projections (Figure 3)(Witter et al., 1989). PH56 generally projects back topographically in a reciprocal manner to multimodal association isocortex(Lavenex et al., 2002). PH56 receives afferent projections from the hippocampus.", 
+        "cy": 2889.176, 
+        "cx": 581.889, 
+        "id": "ph56"
+    }, 
+    "7": {
+        "title": "Hippocampus / allocortex", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the hippocampus appears to associate perceptions in the isocortex through mapped representations in periallocortex based upon emotional context.", 
+        "detail": "The hippocampus proper, called allocortex due to its lack of lamination and different appearance from isocortex, is a full circuit in and of itself(Amaral & Witter, 1989). The hippocampus is functionally dominated by the dentate gyrus (DG), CA3 fields, CA1 fields, and subiculum (Sb). A simplified feedforward picture shows the projection circuit loop as: isocortex  ->  PH23  ->  Dentate Gyrus  ->  CA3  ->  CA1  ->  Subiculum  ->  PH56  ->  isocortex. Multiple feedback connections exist within this path(Amaral & Witter, 1989). The DG and olfactory bulb/subventricular zone are the only widely accepted brain structures consistently shown to contain adult neurogenesis (the new production of neurons) in the non-damaged primate brain(Gould, 2007). The hippocampus essentially receives all the same subcortical input as parahippocampal cortex described above(Amaral & Cowan, 1980).", 
+        "cy": 3211.88, 
+        "cx": 886.227, 
+        "id": "hippocampus"
+    }, 
+    "8": {
+        "title": "Specific thalamus", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the specific thalamus appears to drive the convergent reentrant selection of C3b and C6t perceptual representations in cortico-thalamocortical oscillations.", 
+        "detail": "Specific thalamic neurons project to the mid layers in the cerebral cortex. Ts thalamocortical projections are to lower layer 3b in primate isocortex, often avoiding layer 4(Jones, 2007; Romanski et al., 1997; Jones & Burton, 1976; Trojanowski & Jacobson, 1976; Rockland et al., 1999; McFarland & Haber, 2002; Giguere & Goldman-Rakic, 1988), while only koniocortical projections are to layer 4(Callaway, 1998). The Ts thalamocortical projection is localized (< a few mm2) and topologically organized in the cerebral cortex in accordance with the temporal development of projections(W. Brysch et al., 1990; Hohl-Abrahao & Creutzfeldt, 1991; Vogt et al., 1987; Goldman-Rakic & Porrino, 1985; Baleydier & Mauguiere, 1987; Kievit & Kuypers, 1977).", 
+        "cy": 3062.734, 
+        "cx": 1454.539, 
+        "id": "ts"
+    }, 
+    "9": {
+        "title": "Specific thalamus", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the specific thalamus appears to drive the convergent reentrant selection of C3b and C6t perceptual representations in cortico-thalamocortical oscillations.", 
+        "detail": "Specific thalamic neurons project to the mid layers in the cerebral cortex. Ts thalamocortical projections are to lower layer 3b in primate isocortex, often avoiding layer 4(Jones, 2007; Romanski et al., 1997; Jones & Burton, 1976; Trojanowski & Jacobson, 1976; Rockland et al., 1999; McFarland & Haber, 2002; Giguere & Goldman-Rakic, 1988), while only koniocortical projections are to layer 4(Callaway, 1998). The Ts thalamocortical projection is localized (< a few mm2) and topologically organized in the cerebral cortex in accordance with the temporal development of projections(W. Brysch et al., 1990; Hohl-Abrahao & Creutzfeldt, 1991; Vogt et al., 1987; Goldman-Rakic & Porrino, 1985; Baleydier & Mauguiere, 1987; Kievit & Kuypers, 1977).", 
+        "cy": 3056.677, 
+        "cx": 1763.205, 
+        "id": "ts_1_"
+    }, 
+    "10": {
+        "title": "Thalamic reticular nucleus", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the TRN appears to function in gating thalamocortical information to regulate cognitive states.", 
+        "detail": "The TRN is a thin shell of GABAergic neurons surrounding the entire thalamus(Scheibel & Scheibel, 1966). The majority of TRN afferent connections arise from ascending Ts and descending C6t projections(Jones, 1975). Different sizes of axonal boutons (small and large) in the TRN have been correlated with source cortical topology and layer (L6 and L5) respectively(Zikopoulos & Barbas, 2006). The TRN then projects directly onto the Ts in an inhibitory manner(Velayos et al., 1989; Scheibel & Scheibel, 1966). Other projections to the TRN include cholinergic projections from the brainstem as shown in the cat(Pare et al., 1988) and GABAergic projections from the basal ganglia GPe in the monkey targeting the ventral thalamic region(Asanuma, 1994).", 
+        "cy": 2699.411, 
+        "cx": 1509.416, 
+        "id": "trn"
+    }, 
+    "11": {
+        "title": "Thalamic reticular nucleus", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the TRN appears to function in gating thalamocortical information to regulate cognitive states.", 
+        "detail": "The TRN is a thin shell of GABAergic neurons surrounding the entire thalamus(Scheibel & Scheibel, 1966). The majority of TRN afferent connections arise from ascending Ts and descending C6t projections(Jones, 1975). Different sizes of axonal boutons (small and large) in the TRN have been correlated with source cortical topology and layer (L6 and L5) respectively(Zikopoulos & Barbas, 2006). The TRN then projects directly onto the Ts in an inhibitory manner(Velayos et al., 1989; Scheibel & Scheibel, 1966). Other projections to the TRN include cholinergic projections from the brainstem as shown in the cat(Pare et al., 1988) and GABAergic projections from the basal ganglia GPe in the monkey targeting the ventral thalamic region(Asanuma, 1994).", 
+        "cy": 2678.056, 
+        "cx": 2037.73, 
+        "id": "trn_1_"
+    }, 
+    "12": {
+        "title": "Thalamocortical layer 1 projections", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the layer 1 thalamic projection appears to provide short latency cortical stimulation across widespread areas to activate and control cortical information processing.", 
+        "detail": "Herkenham first described a localized region of the thalamus in the mouse, VM, that projected diffusely to layer 1 of nearly the entire cerebral cortex(Herkenham, 1980, 1979). The projection has a decreasing density gradient from frontal cortex (cognitive) to parietal cortex (sensory). Other studies in the rat definitively confirm the VM  ->  L1 projection(Mitchell & Cauller, 2001; Arbuthnott et al., 1990). The ventral thalamus in the monkey has significant projections to layer 1(Nakano et al., 1992; McFarland & Haber, 2002). However, a localized thalamic L1 projection nuclei has not been directly looked for in primates and we use the nuclei VAmc/VM to estimate the localized thalamic TL1 projection source occurring near the mammothalamic tract that presumably exists in the primate (human). The VAmc/VM nuclei receive projections from the Gpi/Snr and the cerebellum(Sidibe et al., 1997; Francois et al., 2002; M. Parent et al., 2001) and send projections back to the striatum(McFarland & Haber, 2001). As part of the reticular activating system the ventral (and other thalamic nuclei) receive afferent cholinergic projections from the brainstem(Steriade et al., 1988). We include in the TL1 definition the more sparsely distributed layer 1 projecting thalamic matrix described by Jones(Jones, 1998).", 
+        "cy": 3090.873, 
+        "cx": 2071.334, 
+        "id": "tl1"
+    }, 
+    "13": {
+        "title": "Intralaminar thalamus", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the intralaminar thalamus appears to excite the behavioral output of the lower layers of the cerebral cortex to accurately select C5p output and drive cortical behaviors.", 
+        "detail": "The intralaminar thalamus is composed of the centre median (CM), parafasicular (PF), and midline nuclei(Jones, 2007). The midline nuclei are usually further subdivided into the central medial, paracentral, central lateral, and rhomboid nuclei. The intralaminar nuclei output topographic projections to both the striatum and to the lower layers of the isocortex(I. Brysch et al., 1984; Tande et al., 2006; Sadikot, Parent, & Francois, 1992; Sadikot, Parent, Smith, & Bolam, 1992). In a gross topographic organization, PF is associated with frontal cortex and the caudate, CM with motor cortex and the putamen, and midline with cingular cortex and the nucleus accumbens. Ti projects dominantly to lower layers 5/6 in the cerebral cortex(Herkenham, 1980). The most compelling evidence confirming this fact in primates comes from single-axon tracing studies in the monkey that undeniably demonstrate the majority of intralaminar (CM/PF) projections principally terminate in layers 5/6(M. Parent & Parent, 2005), with fewer collateral projections to layer 1. The Ti nuclei projections are largely segregated into those that project exclusively to the cerebral cortex and those that project to the matrix portion of the striatum(M. Parent & Parent, 2005).", 
+        "cy": 3030.795, 
+        "cx": 2429.708, 
+        "id": "Ti_2_"
+    }, 
+    "14": {
+        "title": "Subthalamic Nucleus", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the STN appears to provide a direct cortical mechanism to stop action triggering in the intralaminar thalamus through exciting the Gpi/Snr. A contrary hypothesis might suggest that the STN prepares desired output actions in Ti through increased inhibitory stimulation by the Gpi/Snr biasing future inhibitory rebound spikes.", 
+        "detail": "The STN is the only excitatory nucleus in the basal ganglia and utilizes glutamate as a neurotransmitter. The STN appears to receive an excitatory topographically mapped isocortical afferent input from C5p neurons(M. Parent & Parent, 2006; Nambu et al., 2000) as well as inhibitory input from the Gpe(Sato et al., 2000). The STN projects prominently onto the Gpi/Snr and to the Gpe(A. Parent et al., 1989; Nambu et al., 2000). The STN has inhibitory GABAergic interneurons(J. C. Levesque & Parent, 2005).", 
+        "cy": 2936.31, 
+        "cx": 2835.167, 
+        "id": "stn"
+    }, 
+    "15": {
+        "title": "Substantia nigra pars compacta", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the Snc appears to provide a differential dopamine reward signal to the striatum to learn start and stop action sequences.", 
+        "detail": "The Snc is the source of dopaminergic projections in the basal ganglia. The Snc receives its major afferent input from the patch compartments in the striatum(Fujiyama et al., 2011; Gerfen, 1984). The Snc is tonically active and receives additional inhibitory input from virtually all other structures in the basal ganglia(Lee & Tepper, 2009). The Snc projects onto the matrix compartment of the striatum(Matsuda et al., 2009; Langer & Graybiel, 1989; Gerfen & Surmeier, 2010).", 
+        "cy": 3361.014, 
+        "cx": 3231.797, 
+        "id": "snc"
+    }, 
+    "16": {
+        "title": "Globus pallidus external segment", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, SmD1 appears as a C5s cortically evoked start action mapping through the disinhibitory direct pathway SmD1 -> Gpi/Snr learned from positive dopamine reinforcement. SmD2 appears as a C5s cortically evoked stop action mapping through the dual disinhibitory-disinhibitory indirect pathway SmD2 -> Gpe -> Gpi/Snr or the feedback pathway SmD2 -> Gpe -> SmD1 learned from negative dopamine reinforcement. Sp appears as a C5p cortically evoked dopamine based learning signal via the Sp -> Snc pathway in order to reinforce the two Sm pathways.", 
+        "detail": "The Gpe neurons are GABAergic neurons that primarily receive inhibitory projections from the SmD2 portion of the striatum(Haber et al., 1990; M. Levesque & Parent, 2005) and excitatory projections from the STN(Nambu et al., 2000; A. Parent et al., 1989). Gpe neurons project onto the Gpi/Snr, Stn, and send feedback connections onto the matrix portion of the striatum(Sato et al., 2000).", 
+        "cy": 3038.43, 
+        "cx": 3293.287, 
+        "id": "GPe"
+    }, 
+    "17": {
+        "title": "Striatum patch D2 receptors", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, SmD1 appears as a C5s cortically evoked start action mapping through the disinhibitory direct pathway SmD1 -> Gpi/Snr learned from positive dopamine reinforcement. SmD2 appears as a C5s cortically evoked stop action mapping through the dual disinhibitory-disinhibitory indirect pathway SmD2 -> Gpe -> Gpi/Snr or the feedback pathway SmD2 -> Gpe -> SmD1 learned from negative dopamine reinforcement. Sp appears as a C5p cortically evoked dopamine based learning signal via the Sp -> Snc pathway in order to reinforce the two Sm pathways.", 
+        "detail": "SmD2 neurons are GABAergic spiny projection neurons found within the matrix portion of the striatum that express dopamine D2 receptors. The effect of dopamine on SmD2 neurons decreases excitability(Surmeier et al., 2007). SmD2 is traditionally considered part of the indirect pathway through the basal ganglia because of its projections to the Gpe(Haber et al., 1990; M. Levesque & Parent, 2005).", 
+        "cy": 2663.089, 
+        "cx": 3420.54, 
+        "id": "smd2"
+    }, 
+    "18": {
+        "title": "Striatum patch D1 receptors", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, SmD1 appears as a C5s cortically evoked start action mapping through the disinhibitory direct pathway SmD1 -> Gpi/Snr learned from positive dopamine reinforcement. SmD2 appears as a C5s cortically evoked stop action mapping through the dual disinhibitory-disinhibitory indirect pathway SmD2 -> Gpe -> Gpi/Snr or the feedback pathway SmD2 -> Gpe -> SmD1 learned from negative dopamine reinforcement. Sp appears as a C5p cortically evoked dopamine based learning signal via the Sp -> Snc pathway in order to reinforce the two Sm pathways.", 
+        "detail": "description for left view", 
+        "cy": 3079.872, 
+        "cx": 3799.708, 
+        "id": "smd1"
+    }, 
+    "19": {
+        "title": "Striatum patch", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, SmD1 appears as a C5s cortically evoked start action mapping through the disinhibitory direct pathway SmD1 -> Gpi/Snr learned from positive dopamine reinforcement. SmD2 appears as a C5s cortically evoked stop action mapping through the dual disinhibitory-disinhibitory indirect pathway SmD2 -> Gpe -> Gpi/Snr or the feedback pathway SmD2 -> Gpe -> SmD1 learned from negative dopamine reinforcement. Sp appears as a C5p cortically evoked dopamine based learning signal via the Sp -> Snc pathway in order to reinforce the two Sm pathways.", 
+        "detail": "Sp neurons are GABAergic spiny projection neurons found in the patches of the striatum and project prominently to the Snc(Fujiyama et al., 2011; Haber et al., 1990). The Sp do send smaller number of axon collaterals into the Gpe and Gpi/Snr(M. Levesque & Parent, 2005). In contrast to the matrix, the patch compartments receive their input from C5p neurons in the isocortex(Gerfen, 1989, 1984).", 
+        "cy": 3268.428, 
+        "cx": 3799.708, 
+        "id": "sp"
+    }, 
+    "20": {
+        "title": "Pons", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the pons integrates and transmits cortically evoked C5p output to the cerebellum. The cerebellum appears to be a control system for fine tuning and stabilizing sequences of movement and cognitive behaviors through the ventral thalamus.", 
+        "detail": "The metencephalon primarily includes the pons, cerebellum, and deep cerebellar nuclei. The pons receives nearly all its afferent projections from the isocortex and sends nearly all its efferent output to the cerebellum(Brodal & Bjaalie, 1992). This close relationship is demonstrated by the tight correlated volumetric evolution between the pons and cerebral cortex across species. The pons accounting for 6% of the brainstem in prosimians, 11-21% in monkeys and 37% in humans(Brodal & Bjaalie, 1992). As discussed, the pons receives its cortical projection from the C5p cells from the entire cerebral cortex(Glickstein et al., 1985; Brodal, 1978; Leichnetz", 
+        "cy": 3316.977, 
+        "cx": 4284.99, 
+        "id": "pons"
+    }, 
+    "21": {
+        "title": "Deep Cerebellar Nuclei", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the pons integrates and transmits cortically evoked C5p output to the cerebellum. The cerebellum appears to be a control system for fine tuning and stabilizing sequences of movement and cognitive behaviors through the ventral thalamus.", 
+        "detail": "The metencephalon primarily includes the pons, cerebellum, and deep cerebellar nuclei. The pons receives nearly all its afferent projections from the isocortex and sends nearly all its efferent output to the cerebellum(Brodal & Bjaalie, 1992). This close relationship is demonstrated by the tight correlated volumetric evolution between the pons and cerebral cortex across species. The pons accounting for 6% of the brainstem in prosimians, 11-21% in monkeys and 37% in humans(Brodal & Bjaalie, 1992). As discussed, the pons receives its cortical projection from the C5p cells from the entire cerebral cortex(Glickstein et al., 1985; Brodal, 1978; Leichnetz", 
+        "cy": 3457.266, 
+        "cx": 4604.959, 
+        "id": "DCN"
+    }, 
+    "22": {
+        "title": "Cerebellum", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the pons integrates and transmits cortically evoked C5p output to the cerebellum. The cerebellum appears to be a control system for fine tuning and stabilizing sequences of movement and cognitive behaviors through the ventral thalamus.", 
+        "detail": "The metencephalon primarily includes the pons, cerebellum, and deep cerebellar nuclei. The pons receives nearly all its afferent projections from the isocortex and sends nearly all its efferent output to the cerebellum(Brodal & Bjaalie, 1992). This close relationship is demonstrated by the tight correlated volumetric evolution between the pons and cerebral cortex across species. The pons accounting for 6% of the brainstem in prosimians, 11-21% in monkeys and 37% in humans(Brodal & Bjaalie, 1992). As discussed, the pons receives its cortical projection from the C5p cells from the entire cerebral cortex(Glickstein et al., 1985; Brodal, 1978; Leichnetz", 
+        "cy": 3373.337, 
+        "cx": 5180.995, 
+        "id": "CB"
+    }, 
+    "23": {
+        "title": "Basal Forebrain", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the basal forebrain appears to provide cholinergic input to the cerebral cortex to learn and activate an output behavior mapping between C3b and C5p neurons.", 
+        "detail": "Acetylcholine is found in primarily three populations of neurons in the brain: alpha-motor neurons, interneurons in the striatum, and the basal forebrain including the nucleus of Meynert(Satoh & Fibiger, 1985). Basal forebrain lesions ’abolish cortical plasticity associated with motor skill learning’(Conner et al., 2003). Large lesions of the basal forebrain in the rat have resulted in deep coma consistent with the disruption of behavioral output(Fuller et al., 2011). Acetylcholinesterase staining typically stains layer 1 of most cortices, therefore the BF projection appears to primarily target layer 1 of most of the cortex(Bigl et al., 1982). In monkey and human cortex, C3b and C5p neurons appear to preferentially stain for acetylcholinesterase suggesting a prominent utilization of acetylcholine(Hackett et al., 2001; Bravo & Karten, 1992; Voytko et al., 1992).", 
+        "cy": 2690.681, 
+        "cx": 5030.046, 
+        "id": "BF"
+    }, 
+    "24": {
+        "title": "Claustrum", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, the claustrum appears to integrate cortical information from C6m neurons and provide feedforward excitatory input to inhibitory neurons in L4 of the cerebral cortex.", 
+        "detail": "The claustrum is located midway between layer 6 of insular cortex (from which it breaks off early in brain development) and the striatum. Debate is ongoing on whether the claustrum’s developmental origin is cortical, striatal, or a hybrid(Edelstein & Denaro, 2004). Projections from the claustrum target nearly the entire brain, with little segregation of projections in the claustrum(Tanne-Gariepy et al., 2002). Claustrum projections travel through the external capsule and appear slightly biased to cognitive and cortical control centers of the brain(Molnar et al., 2006). The projections from the claustrum terminate mostly in layer 4 and appear to preferentially target inhibitory neurons, possibly chandelier cells with axoaxonic terminals(LeVay, 1986; LeVay & Sherk, 1981).", 
+        "cy": 2648.428, 
+        "cx": 4679.199, 
+        "id": "CM"
+    }, 
+    "25": {
+        "title": "Spinal Cord", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "", 
+        "detail": "", 
+        "cy": 2592.112, 
+        "cx": 4274.932, 
+        "id": "SC"
+    }, 
+    "26": {
+        "title": "Globus pallidus internal segment/Substantia nigra pars reticulata", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "The Gpi/Snr is the source of the major GABAergic output from the basal ganglia. The Gpi and Snr are physically separated nuclei, with the Snr located adjacent to the Snc (hence the naming convention). However, from a neuroanatomical perspective these structures are functionally equivalent. The Gpi/Snr receives afferent input from all other basal ganglia nuclei, including the matrix striatum(M. Levesque & Parent, 2005; Haber et al., 1990), the Gpe(Sato et al., 2000), the STN(J. C. Levesque & Parent, 2005), and collateral projections from the Snc(Charara & Parent, 1994; Zhou et al., 2009).", 
+        "detail": "description for left view", 
+        "cy": 3145.175, 
+        "cx": 2947.061, 
+        "id": "GPi_SNr"
+    }, 
+    "27": {
+        "title": "Cortical pyramidal layer 5/6 cortically projecting", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, C56 appears to function as corticocortical feedback output system.", 
+        "detail": "Neurons in the lower layers of the cerebral cortex are the most diverse, but are differentiable based on the targets of their projections. We use the term C56 to group the cortical neurons in the infragranular layers of the isocortex that dominantly project corticocortically(Soloway et al., 2002; Lima et al., 1990; Tanigawa et al., 1998). The C56 neurons often have a spindle shape and appear to lack major dendritic tufts above layer 5a(Lima et al., 1990). The intracortical supragranular projections appear more extensive in layers 2 and 3a(Levitt et al., 1993), with distant horizontal projections in layers 5/6(Tardif et al., 2007). The C56 group are the dominant source of intercortical projections to layer 1 and 2 of ipsilateral cortices (Figure 3)(Rockland & Drash, 1996; Barbas, Hilgetag, et al., 2005; Medalla & Barbas, 2006).", 
+        "cy": 1766.372, 
+        "cx": 1497.327, 
+        "id": "c56_1_"
+    }, 
+    "28": {
+        "title": "Cortical pyramidal layer 3a cortically projecting", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, C3a appears to function as a corticocortical feedforward output system.", 
+        "detail": "C3a pyramidal neurons, of typical pyramidal shape, are distinguishable from layer 2 in isocortex because of their increased size and sparsity. In layer 3a the distance of intracortical horizontal projections increase into stripe like patches(Fujita & Fujita, 1996; Melchitzky et al., 2001; Lund et al., 1993). C3a cells often have long horizontal projections in lower layer 3b(Kritzer & Goldman-Rakic, 1995). C3a cells are the dominant source of intercortical projections to layer 4 of ipsilateral cortices (Figure 3)(Barbas, Hilgetag, et al., 2005; DeFelipe et al., 1986; Medalla & Barbas, 2006; Rockland, 1992).", 
+        "cy": 790.587, 
+        "cx": 1979.722, 
+        "id": "c3a"
+    }, 
+    "29": {
+        "title": "Cortical pyramidal layer 2 cortically projecting", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, C2 appears to function as corticocortical feedback input system.", 
+        "detail": "Layer 2 is referred to as the outer granular layer because of its similar granular structure as layer 4. The C2 neurons are small pyramidal neurons with local horizontal projections mostly to layer 2 and to layer 3(Barbas, Hilgetag, et al., 2005; Tanigawa et al., 1998; Soloway et al., 2002). Layer 2 is a primary target of ipsilateral feedback type cortical projections (Figure 3). The granular similarity of layer 2 to layer 4 implies a similar input architecture for feedback projections. C2 receives feedback input and propagates information horizontally and down to C3a and C3b, with upper layer 5 being the focus of infragranular projections(Kritzer & Goldman-Rakic, 1995).", 
+        "cy": 605.067, 
+        "cx": 1659.04, 
+        "id": "c2"
+    }, 
+    "30": {
+        "title": "Cortical pyramidal layer 3b cortically projecting", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, C3b appears to function as stable invariant perceptual representations in the cerebral cortex that are associated in short-term memory.", 
+        "detail": "Lower layer 3b in the isocortex is centrally located to be the hub of perceptual information processing in the cerebral cortex. The large pyramidal neurons located in the lower part of layer 3, just above the granular layer 4 could be included in multiple circuits including long-term memory, working memory/information processing, and behavior output. The C3b cells have the classic pyramidal neuron shape and are usually the second largest pyramidal neuron group next to C5p(Jones & Wise, 1977; Barbas, Hilgetag, et al., 2005; Rempel-Clower & Barbas, 2000). The C3b intracortical projections involve some of the longest (many millimeters) grey matter projections in the cerebral cortex(Kritzer & Goldman-Rakic, 1995; DeFelipe, 1997; Fujita & Fujita, 1996). The horizontal projections form stripe-like vertical patches and have all the same qualities described in the C3a group.", 
+        "cy": 1051.965, 
+        "cx": 2339.724, 
+        "id": "c3b"
+    }, 
+    "31": {
+        "title": "Martinotti Cells in Layer 1", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, interneurons appear to synchronize information processing and facilitate excitatory competition through localized vertical and horizontal inhibitory projections enabling cortical information processing.", 
+        "detail": "Martinotti cells express calbindin and are unique in that they send a vertically projecting axon that arborizes horizontally in layer 1(Conde et al., 1994; Zaitsev et al., 2009).", 
+        "cy": 502.464, 
+        "cx": 2693.675, 
+        "id": "martinotti_layer_1_1_"
+    }, 
+    "32": {
+        "title": "Neurogliaform Cells", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, interneurons appear to synchronize information processing and facilitate excitatory competition through localized vertical and horizontal inhibitory projections enabling cortical information processing.", 
+        "detail": "Neurogliaform cells are small, express calbindin, and are found throughout all layers, but biased toward superficial layers with a tight dense plexus of axons(Gabbott & Bacon, 1996; Zaitsev et al., 2005; Lund & Lewis, 1993).", 
+        "cy": 683.79, 
+        "cx": 3017.037, 
+        "id": "neurogliaform"
+    }, 
+    "33": {
+        "title": "Cajal-Retzious Cells", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, interneurons appear to synchronize information processing and facilitate excitatory competition through localized vertical and horizontal inhibitory projections enabling cortical information processing.", 
+        "detail": "Cajal-Retzious cells are horizontally projecting interneurons found exclusively in layer 1 of the cerebral cortex and are the only cells found in layer 1(Cajal, 2002; Conde et al., 1994; Gabbott & Bacon, 1996).", 
+        "cy": 411.26, 
+        "cx": 3149.664, 
+        "id": "cajal-retzious"
+    }, 
+    "34": {
+        "title": "Chandelier Cells", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, interneurons appear to synchronize information processing and facilitate excitatory competition through localized vertical and horizontal inhibitory projections enabling cortical information processing.", 
+        "detail": "Chandelier cells are a class of axoaxonic parvalbumin inhibitory neurons which provide exclusive terminations on the initial axon segment of pyramidal neurons found mostly between layers 3 and 5(Conde et al., 1994; Defelipe et al., 1999; Lund & Lewis, 1993). Named for the vertical chandelier look alike synaptic boutons.", 
+        "cy": 778.77, 
+        "cx": 3276.02, 
+        "id": "chandelier"
+    }, 
+    "35": {
+        "title": "Cortical pyramidal layer 5 striatally projecting", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, C5s appears to encode suggested action sequences within a cortical module for selection in the basal ganglia.", 
+        "detail": "C5s are pyramidal neurons in the isocortex that principally project to the striatum. C5s pyramidal neurons are typically located in the upper portion of layer 5, L5a, with a prominent ascending dendrite that arborizes in L1(Jones et al., 1977; Yeterian & Pandya, 1994; Arikuni & Kubota, 1986). C5s send projections to the matrix portion of the striatum(Gerfen, 1989; Jones & Wise, 1977; M. Parent & Parent, 2006). C5s neurons are likely the source of cortical projections to Ti that are distinct from C6t projections in the monkey(Catsman-Berrevoets & Kuypers, 1978) and cat(Kakei et al., 2001). C6t thalamic terminations are small and dense, while C5s synaptic terminals are large and sparse(Rouiller & Durif, 2004). The large terminals found in the TRN are likely a result of C5s collaterals(Zikopoulos & Barbas, 2006). In the rat, C5s and C5p neurons have been shown to be distinct populations(M. Levesque et al., 1996; Molnar & Cheung, 2006), with C5s having a higher probability of recurrent C5s -> C5s connections(Morishima & Kawaguchi, 2006). L5a intracortical projections have distant ∼1-2mm projections in layers 2/3a, and slightly longer projections within the same layer 5a(Kritzer & Goldman-Rakic, 1995; Levitt et al., 1993).", 
+        "cy": 1273.665, 
+        "cx": 3640.541, 
+        "id": "c5s"
+    }, 
+    "36": {
+        "title": "Cortical pyramidal layer 5 pons projecting", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, C5p neurons appear to form the physical and cognitive behavioral output of the cerebral cortex.", 
+        "detail": "The C5p population refers to the collection of primarily pons (and other subcortically) projecting pyramidal cells found throughout the entire isocortex(Hackett et al., 2001; Watakabe et al., 2006). C5p neurons are located in layer 5b(Foster et al., 1981), have large dendritic tufts in layer 1, and are distinct from C5s neurons(Molnar & Cheung, 2006; Morishima & Kawaguchi, 2006). The C5p intracortical projections are not extensive, often restricted to short distances in layer 5(Ghosh & Porter, 1988), however their dendritic arborization is quite large. Generally, the largest neurons in the isocortex are C5p neurons and in primary motor cortex, C5p neurons are referred as large Betz cells(Braak & Braak, 1976). Since the majority of C5p neurons target the pons (relaying information to the cerebellum), we suggest that the cognitive function of C5p neurons may be inferred through analogy with Betz cells in primary motor cortex. The projections from C5p neurons in primary motor cortex synapse directly with the spinal chord causing physical movement(Stanfield, 1992). The direct projection to the spinal chord is weak in lower mammals, but becomes increasingly prominent in primates, and presumably dominates in humans, suggesting an increasingly more direct cortical involvement in behavior(Lemon & Griffiths, 2005). C5p projections from frontal cortex target the STN of the basal ganglia with collaterals to the striatum(Nambu et al., 2000; M. Parent & Parent, 2006). Evidence suggests that C5p striatal projections target the Sp patch (striosome) portion of the striatum that projects to the dopamine filled Snc(Gerfen, 1989, 1984).", 
+        "cy": 1533.988, 
+        "cx": 4301.56, 
+        "id": "c5p"
+    }, 
+    "37": {
+        "title": "Chandelier Cells", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, interneurons appear to synchronize information processing and facilitate excitatory competition through localized vertical and horizontal inhibitory projections enabling cortical information processing.", 
+        "detail": "Chandelier cells are a class of axoaxonic parvalbumin inhibitory neurons which provide exclusive terminations on the initial axon segment of pyramidal neurons found mostly between layers 3 and 5(Conde et al., 1994; Defelipe et al., 1999; Lund & Lewis, 1993). Named for the vertical chandelier look alike synaptic boutons.", 
+        "cy": 1289.937, 
+        "cx": 4655.366, 
+        "id": "chandelier_1_"
+    }, 
+    "38": {
+        "title": "Cortical pyramidal layer 3b cortically projecting", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, C3b appears to function as stable invariant perceptual representations in the cerebral cortex that are associated in short-term memory.", 
+        "detail": "Lower layer 3b in the isocortex is centrally located to be the hub of perceptual information processing in the cerebral cortex. The large pyramidal neurons located in the lower part of layer 3, just above the granular layer 4 could be included in multiple circuits including long-term memory, working memory/information processing, and behavior output. The C3b cells have the classic pyramidal neuron shape and are usually the second largest pyramidal neuron group next to C5p(Jones & Wise, 1977; Barbas, Hilgetag, et al., 2005; Rempel-Clower & Barbas, 2000). The C3b intracortical projections involve some of the longest (many millimeters) grey matter projections in the cerebral cortex(Kritzer & Goldman-Rakic, 1995; DeFelipe, 1997; Fujita & Fujita, 1996). The horizontal projections form stripe-like vertical patches and have all the same qualities described in the C3a group.", 
+        "cy": 1041.721, 
+        "cx": 4461.292, 
+        "id": "c3b_1_"
+    }, 
+    "39": {
+        "title": "Basket Cells", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, interneurons appear to synchronize information processing and facilitate excitatory competition through localized vertical and horizontal inhibitory projections enabling cortical information processing.", 
+        "detail": "Basket cells form the majority of interneurons, named for the basket like shape of synapses they form around the soma of pyramidal neurons(Cajal, 2002). Basket cells are typically fast spiking, parvalbumin staining, soma targeting, and have their highest densities between middle layer 3 and upper layer 5(Zaitsev et al., 2005; Lund & Lewis, 1993). Basket cells are often further differentiated by the size and or curvature of their often long (∼100s μm) horizontal axonal arborization(Zaitsev et al., 2009; Lund et al., 1993).", 
+        "cy": 946.101, 
+        "cx": 4782.008, 
+        "id": "basket_1_"
+    }, 
+    "40": {
+        "title": "Double Bouquet Cells", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, interneurons appear to synchronize information processing and facilitate excitatory competition through localized vertical and horizontal inhibitory projections enabling cortical information processing.", 
+        "detail": "Double bouquet cells express calretinin and have vertically projecting dendrites and axons that span across layers that are direct sources of inter-layer feed-forward or feed-back projections(Lund & Lewis, 1993; Conde et al., 1994; Zaitsev et al., 2009). Bi-tufted neurons have similar dendritic and axonal organization.", 
+        "cy": 806.289, 
+        "cx": 4093.792, 
+        "id": "double_bouquet"
+    }, 
+    "41": {
+        "title": "Cortical layer 6 claustrum projecting", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, C6m appears to function in coordination with C5s neurons to integrate action suggestions for transmission to the claustrum.", 
+        "detail": "The claustrum receives projections from virtually the entire cortex in a topographic, but largely overlapped fashion(Pearson et al., 1982). The projections from cortex originate from C6m neurons, which are distinct from C6t neurons in the cat(Katz, 1987). Apical dendrites of these neurons typically arborize directly below layer 4 in the upper part of layer 5(Soloway et al., 2002; No, 1943). Occasionally collaterals of C5s neurons are found in the claustrum(M. Parent & Parent, 2006).", 
+        "cy": 1988.293, 
+        "cx": 4681.824, 
+        "id": "c6m"
+    }, 
+    "42": {
+        "title": "Cortical pyramidal layer 6 thalamic projecting ", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, C6t appears to function in conjunction with C3b and Ts to facilitate cortico-thalamocortical oscillations.", 
+        "detail": "Cortical C6t cells have a neuroanatomical organization highly linked to Ts projections. C6t cells send both apical dendrite and intracortical axon projections to layer 3b in the isocortex(Jones & Wise, 1977; Peters et al., 1997; Lund et al., 1981; Rockland & Ichinohe, 2004) and layer 4 in koniocortex(Briggs & Callaway, 2001). The C6t cell projections leaving the cortex target local regions of the Ts in a reciprocal manner(Giguere & Goldman-Rakic, 1988; McFarland & Haber, 2002; Catsman-Berrevoets & Kuypers, 1978; Trojanowski & Jacobson, 1977; Asanuma et al., 1985). Note the anatomical reentrant blueprint specifying that C6t intracortical axons/dendrites target the same cortical layer receiving Ts projections.", 
+        "cy": 1671.058, 
+        "cx": 3073.105, 
+        "id": "c6t"
+    }, 
+    "43": {
+        "title": "Basket Cells", 
+        "neurolex": "neurolex link", 
+        "shortdetail": "Viewpoint: Neuroanatomically, interneurons appear to synchronize information processing and facilitate excitatory competition through localized vertical and horizontal inhibitory projections enabling cortical information processing.", 
+        "detail": "Basket cells form the majority of interneurons, named for the basket like shape of synapses they form around the soma of pyramidal neurons(Cajal, 2002). Basket cells are typically fast spiking, parvalbumin staining, soma targeting, and have their highest densities between middle layer 3 and upper layer 5(Zaitsev et al., 2005; Lund & Lewis, 1993). Basket cells are often further differentiated by the size and or curvature of their often long (∼100s μm) horizontal axonal arborization(Zaitsev et al., 2009; Lund et al., 1993).", 
+        "cy": 1599.093, 
+        "cx": 2633.199, 
+        "id": "basket"
+    }, 
+    "44": {
+        "title": "Intracortical projections", 
+        "neurolex": "", 
+        "shortdetail": "Viewpoint: Neuroanatomically, an organization appears to exist where cell assemblies form intracortically in functional modules within select layers to encode perceptions.",
+        "detail": "Intracortical projections are horizontal corticocortical projections traveling within the grey matter of the cerebral cortex(Kritzer & Goldman-Rakic, 1995). Although all pyramidal neurons have connections within the cerebral cortex, the prominent source of distant intracortical projections arise mainly from pyramidal neurons within layers 2 and 3, and a sub-set of neurons in layers 5 and 6. The intracortical terminations of C3a and C3b pyramidal neurons are not distributed uniformly, but form patchy or stripe-like patterns of termination which comprise areas up to 20mm2 in the monkey(Levitt et al., 1993; Pucak et al., 1996; Fujita & Fujita, 1996; Lima et al., 1990). Neurons in each layer appear to project horizontally, then the stripe-like terminations (spaced a few 100μm apart) arise out of vertical collaterals. The laminar specificity and development of these corticocortical striped projections is largely activity dependent(Price et al., 2006). In the monkey, 50% of pyramidal neuron synaptic contacts, within its local stripe (roughly its dendritic tree size), are onto GABAergic inhibitory neurons, while more than 90% of synaptic contacts outside a pyramidal neurons local stripe are onto other pyramidal neurons(Melchitzky et al., 2001). The intracortical organization is suggestive that a functional module (∼10’s mm2) in the isocortex is much larger than the traditional cortical minicolumn (∼100’s μm2)(Buxhoeveden & Casanova, 2002; Mountcastle, 2003; Rockland & Ichinohe, 2004).", 
+        "cy": 324.558, 
+        "cx": 1056.526, 
+        "id": "intracortical"
+    },
+    "45": {
+        "title": "Cerebral Cortex", 
+        "neurolex": "", 
+        "shortdetail": "",
+        "detail": "", 
+        "cy": 306.000, 
+        "cx": 2319.000, 
+        "id": "cortex"
+    }
+}
